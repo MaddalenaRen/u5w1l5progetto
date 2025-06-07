@@ -60,7 +60,7 @@ public class RunnerFunzionalitaUtente implements CommandLineRunner{
 
             System.out.println("Inserisci email");
             String email = scanner.nextLine();
-            //String email = "ileniarennella@gmail.com";
+            //String email = "ilenia@email.com";
 
             utente = new Utente();
 
